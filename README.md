@@ -34,26 +34,6 @@ This project implements a deep learning pipeline for classifying pediatric conge
 - OpenCV
 - Google Colab
 
-## 📂 Project Structure
-├── data/
-│ ├── ASD/
-│ ├── PDA/
-│ ├── VSD/
-│ └── Normal/
-├── segmentation/
-│ └── graph_cut.py
-├── models/
-│ └── resnet152_model.py
-├── training/
-│ └── train.py
-├── evaluation/
-│ └── confusion_matrix.png
-├── plots/
-│ ├── accuracy_plot.png
-│ └── loss_plot.png
-├── README.md
-
-
 ## 📌 Results
 
 - Confusion matrices
