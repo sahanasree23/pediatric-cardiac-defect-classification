@@ -64,13 +64,6 @@ This project implements a deep learning pipeline for classifying pediatric conge
 
 - Add a testing phase with unseen data
 - Integrate with real-time diagnostic tools
-- Extend to other imaging modalities (e.g., CT or MRI)
 
-## 📸 Sample Output
 
-*(Insert sample segmented image and classification result here)*
-
----
-
-Let me know if you'd like me to help generate a sample `README.md`, a `.gitignore` file, or a `requirements.txt`.
 
